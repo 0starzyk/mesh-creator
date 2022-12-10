@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/project.dir/main.cpp.o CMakeFiles/project.dir/src/writeglTF.cpp.o CMakeFiles/project.dir/src/utils.cpp.o -o project 
