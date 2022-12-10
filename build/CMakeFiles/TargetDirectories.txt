@@ -1,0 +1,3 @@
+/home/kacper/cpp/mesh-creator/build/CMakeFiles/project.dir
+/home/kacper/cpp/mesh-creator/build/CMakeFiles/edit_cache.dir
+/home/kacper/cpp/mesh-creator/build/CMakeFiles/rebuild_cache.dir
