@@ -2,5 +2,5 @@
 
 int main()
 {
-    writeglTF("../input/data.json", "../input/model.gltf", "../output/buffer.bin", "../output/model.gltf");
+    writeglTF("../input/data.json", "../input/model-template.gltf", "../output/buffer.bin", "../output/model.gltf");
 }
